@@ -13,3 +13,24 @@ Difference between C++ vs. C#
 #Things to look into
 - BitBucket
 - SourceTree
+
+#Order
+- Learn C#
+- Learn/Decide on how to get our history updates code
+- Which Unity to use
+- Learn Unity C#
+
+Rachel
+Exam 15 and 22
+project 17
+LG trip Friday Saturday.  Chicago trip and then headed home.
+
+Alex
+Project every 2 weeks
+LG first weeked trip
+
+Jason
+Exam 16 and 17
+project 22 and exam 23
+LG trip 2nd weekend
+
